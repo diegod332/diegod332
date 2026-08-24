@@ -45,9 +45,9 @@ A lo largo de mi formación académica y proyectos personales he trabajado con e
 
 ## Proyectos Destacados
 
-### [RetiScan](https://github.com/AlfreRose12/RetiScan)
+<img src="https://res.cloudinary.com/ooa1pvyl/image/upload/v1786538539/logo_retiscan.png" width="20" height="20" align="left" /> **[RetiScan](https://github.com/AlfreRose12/RetiScan)** [![Ver en GitHub](https://img.shields.io/badge/-Ver%20en%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlfreRose12/RetiScan)
 
-Sistema multiplataforma para la detección temprana de retinopatía diabética, con frontend en React/Flutter y backend dockerizado.
+Sistema multiplataforma para la detección temprana de retinopatía diabética, con frontend en React/Flutter y backend dockerizado. Colaboré en el desarrollo del frontend y la integración con los servicios backend.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
