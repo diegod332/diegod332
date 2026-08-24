@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego Sanchez Sanchez
 
-Ingeniero en Desarrollo y Gestión de Software en formación por la Universidad Tecnológica del Centro de Veracruz (UTCV).
+Ingeniero en Desarrollo y Gestión de Software en formación y Técnico Superior Universitario en TI (Área Desarrollo de Software Multiplataforma) por la Universidad Tecnológica del Centro de Veracruz.
 
 Me enfoco en el desarrollo full stack, aplicaciones móviles multiplataforma y el diseño de APIs RESTful, combinando buenas prácticas de arquitectura con un flujo de trabajo eficiente.
 
