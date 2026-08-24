@@ -12,25 +12,27 @@ A lo largo de mi formación académica y proyectos personales he trabajado con e
 
 ### Desarrollo Móvil
 
-[![Desarrollo Móvil](https://skillicons.dev/icons?i=flutter,androidstudio,dart)](https://skillicons.dev)
+[![Desarrollo Móvil](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts)](https://skillicons.dev)
 
-### Backend
+### Estilos y Diseño
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,python,cs)](https://skillicons.dev)
+[![Estilos y Diseño](https://skillicons.dev/icons?i=html,css,bootstrap,figma)](https://skillicons.dev)
 
-### Bases de Datos y Caché
+### Backend y Ciencia de Datos
 
-[![Bases de Datos](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+[![Backend y Ciencia de Datos](https://skillicons.dev/icons?i=nodejs,express,java,anaconda,postgres,mongodb,firebase)](https://skillicons.dev)
 
-> También he trabajado con **SQL Server** en proyectos académicos (sin ícono disponible en skillicons.dev).
+### DevOps y Deploy
+
+[![DevOps y Deploy](https://skillicons.dev/icons?i=docker,vercel,netlify)](https://skillicons.dev)
 
 ### Herramientas y Control de Versiones
 
-[![Herramientas](https://skillicons.dev/icons?i=git,github,docker,linux)](https://skillicons.dev)
+[![Herramientas y Control de Versiones](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,npm,pnpm,arduino)](https://skillicons.dev)
 
 ---
 
