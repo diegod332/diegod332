@@ -45,13 +45,23 @@ A lo largo de mi formación académica y proyectos personales he trabajado con e
 
 ## Proyectos Destacados
 
-<img src="https://res.cloudinary.com/ooa1pvyl/image/upload/v1786538539/logo_retiscan.png" width="20" height="20" align="left" /> **[RetiScan](https://github.com/AlfreRose12/RetiScan)** [![Ver en GitHub](https://img.shields.io/badge/-Ver%20en%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlfreRose12/RetiScan)
-
-Sistema multiplataforma para la detección temprana de retinopatía diabética, con frontend en React/Flutter y backend dockerizado. Colaboré en el desarrollo del frontend y la integración con los servicios backend.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="left">
+        <img src="https://res.cloudinary.com/ooa1pvyl/image/upload/v1786538539/logo_retiscan.png" width="40" height="40" valign="middle" />
+        <a href="https://github.com/AlfreRose12/RetiScan">RetiScan</a>
+        <a href="https://github.com/AlfreRose12/RetiScan"><img src="https://img.shields.io/badge/Ver_en_GitHub-181717?style=flat&logo=github&logoColor=white" valign="middle" /></a>
+      </h3>
+      <p>Sistema multiplataforma para la detección temprana de retinopatía diabética, con frontend en React/Flutter y backend dockerizado. Colaboré en el desarrollo del frontend y la integración con los servicios backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
